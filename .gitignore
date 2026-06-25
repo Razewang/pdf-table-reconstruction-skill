@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+input.pdf
+output/
+*.xlsx
+*.log
+run_status.json
+debug_run_status.json
+manual_probe.txt

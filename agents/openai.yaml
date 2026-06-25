@@ -1,0 +1,4 @@
+interface:
+  display_name: "PDF Table Reconstruction"
+  short_description: "Convert scanned PDF tables into traceable Excel outputs."
+  default_prompt: "Use $pdf-table-reconstruction to convert input.pdf into reconstructed_tables.xlsx and review_notes.xlsx, then summarize status, outputs, and manual-review warnings."
